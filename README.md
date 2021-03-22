@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - 💼 If you have questions, or you have a project I'm available for freelancing and also I'm looking for a new opportunities,
 you can always contact me at: <br>
    Email: milindmodi10@gmail.com <br> 
-   <a href="https://www.linkedin.com/in/milind-modi-88a23314b/">LinkedIn</a> | Twitter <a href="https://www.linkedin.com/in/milind-modi-88a23314b/">@milindmodi15</a>
+   <a href="https://www.linkedin.com/in/milind-modi-88a23314b/">LinkedIn</a> | Twitter <a href="https://twitter.com/MilindModi15">Twitter</a>
    
 <div align="center">
  
