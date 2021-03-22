@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **MilindModi/MilindModi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hello! I'm Milind Modi.</h1>
+<h1 align="center">Hi there!  I'm Milind Modi.</h1>
 
 
 
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - 💼 If you have questions, or you have a project I'm available for freelancing and also I'm looking for a new opportunities,
 you can always contact me at: <br>
    Email: milindmodi10@gmail.com <br> 
-   <a href="https://www.linkedin.com/in/milind-modi-88a23314b/">LinkedIn</a> | Twitter <a href="https://twitter.com/MilindModi15">Twitter</a>
+   <a href="https://www.linkedin.com/in/milind-modi-88a23314b/">LinkedIn</a> | <a href="https://twitter.com/MilindModi15">Twitter</a>
    
 <div align="center">
  
